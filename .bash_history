@@ -47,3 +47,26 @@ unzip -p ml-100k.zip
 ls
 git status
 ls
+echo "# ai-study" >> README.md
+git init
+git add -A
+git status
+git commit -m "first commit"git commit -m "first commit"
+git status
+git commit -m "first commit"
+git commit -m "init"
+git git config --global user.email pray4u@gmail.com
+git status
+git commit -m "init"
+git config --global user.email "pray4uu@gmail.com"
+git config --global user.name wankiAhn"
+git config --global user.name "KwankiAhn"
+git commit -m "init"
+git remote add origin https://github.com/KwankiAhn/ai-study.gitgit remote add origin https://github.com/KwankiAhn/ai-study.git
+git remote add origin https://github.com/KwankiAhn/ai-study.git
+git push -u origin master
+git pull
+git add -A
+git commit -m "better mofel"
+git push origin master
+git pull
