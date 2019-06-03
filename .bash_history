@@ -70,3 +70,15 @@ git add -A
 git commit -m "better mofel"
 git push origin master
 git pull
+git status
+git add -A
+git commie -m "update metrics"
+git commit -m "update metrics"
+git push origin master
+git add -A
+git commit -m "update metrics"
+git push origin master
+git add -A
+git status
+git commit -m "update metrics"
+git push origin master
