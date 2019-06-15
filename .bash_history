@@ -179,3 +179,45 @@ gsutil cp DIV2K_train_HR.zip gs://div2k-sr-image-dataset
 gsutil cp DIV2K_train_LR_unknown_X2.zip gs://div2k-sr-image-dataset
 gsutil cp DIV2K_valid_HR.zip gs://div2k-sr-image-dataset
 gsutil cp DIV2K_valid_LR_unknown_X2.zip gs://div2k-sr-image-dataset
+git status
+ls -al
+vi .gitignore
+git staus
+git status
+git add -A
+git status
+git commit -m "re-organize tree"
+git push origin master
+ls -al
+s -al
+ls -al
+rm -rf image_sr_dataset/
+cd sr
+ls
+ls -al
+cd ..
+ls
+cd sr
+ls
+cd image_sr_
+ls
+cd image_sr_dataset
+ls -al
+pwd
+ls -al
+cd DIV2K_train_LR_unknown
+ls -al
+cd X2
+ls -al
+cd ../..
+ls -al
+cd DIV2K_train_HR
+ls
+cd ..
+cd DIV2K_valid_LR_unknown
+ls -al
+cd X2
+ls
+pip install Pillow
+ls -al
+sudo reboot
