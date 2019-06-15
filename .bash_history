@@ -221,3 +221,14 @@ ls
 pip install Pillow
 ls -al
 sudo reboot
+ls -al
+top
+ls -al
+git status
+git add -A
+git status
+git commit -m "update sr practice"
+git push origin master
+pwd
+ls -al
+mkdir gsrc-github
